@@ -450,7 +450,6 @@ class CaptchaApp:
             "Content-Type": "application/json",
             "Source": "WEB",
             "Origin": "https://ecsc.gov.sy",
-            "Connection": "keep-alive",
             "Sec-Fetch-Dest": "empty",
             "Sec-Fetch-Mode": "cors",
             "Sec-Fetch-Site": "same-site",
